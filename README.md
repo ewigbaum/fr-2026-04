@@ -6,7 +6,7 @@ Community translations for PluralSpace. Help us bring PluralSpace to plural syst
 
 ### For Translators
 
-1. **Check existing languages** - See `lang/` for languages we're already working on
+1. **Check existing languages** - Each language is contained in it's respective folder
 2. **Pick a language** - Found one you want to help with?
    - Existing language: Open an issue or comment on an existing translation thread
    - New language: Open an issue to claim your language (e.g., "I'd like to translate to French")
@@ -17,8 +17,8 @@ Small tip - the English translations are the default ones that are used across t
 ### Submission Process
 
 1. Fork this repository
-2. Create a branch: translate/[language]-[date] (e.g., translate/fr-2026-04)
-3. Add or update language files in lang/[locale]/ (e.g., lang/fr/kb.php)
+2. Create a branch: translate/[language]-[date] (e.g., `translate/fr-2026-04`)
+3. Add or update language files in `[locale]/` (e.g., `fr/kb.php`)
 4. Open a PR with:
    - Language name + code (e.g., "Français (fr)")
    - Files included (e.g., "kb.php, auth.php, nav.php")
@@ -33,9 +33,10 @@ We use Laravel on the backend, and they have [amazing documentation](https://lar
 
 ## Languages
 
-| Language | Code | Status | Translator(s) |
-| -------- | ---- | ------ | ------------- |
-| English  | `en` | ✅ Complete | Drexel |
+| Language | Code | Status      | Translator(s) |
+|----------|------|-------------|---------------|
+| English  | `en` | ✅ Complete  | Drexel        |
+| Spanish  | `es` | In Progress |               |
 
 ## Resources
 
