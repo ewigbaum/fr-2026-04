@@ -2,7 +2,7 @@
 
 return [
     'current' => 'Actuellement au front',
-    'none' => 'Personne en front en ce moment.',
+    'none' => 'Personne front en ce moment.',
     'started' => 'Front a commencé.',
     'history' => 'Historique de fronts',
     'comment' => 'Commentaire',

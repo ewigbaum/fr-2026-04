@@ -2,11 +2,11 @@
 
 return [
     'name' => 'Nom du membre',
-    'display_name' => 'Nom d'affichage',
+    'display_name' => 'Nom d\'affichage',
     'pronouns' => 'Pronoms',
     'description' => 'Description',
     'role' => 'Rôle',
-    'color' => 'Couler',
+    'color' => 'Couleur',
     'created' => 'Membre créé.',
     'updated' => 'Membre mis a jour.',
     'deleted' => 'Membre supprimé.',
